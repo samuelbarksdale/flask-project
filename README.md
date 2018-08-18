@@ -22,3 +22,13 @@ if __name__ == '__main__':
   app.run(debug=True)
 ```  
 This allows you to run the scripts as `python flaskblog.py`  
+
+# Setting up PyCharm
+Download Python Professional using student account
+Click `New Project` and select Flask
+Choose the location you want the project to exist. if project is already existing then choose the project location.
+Make sure to use Venv and Python 3.7 for this project.
+If Project already exists
+Click `No` when it prompts if you want to use existing resources
+If project does not exist
+Click `Yes`
