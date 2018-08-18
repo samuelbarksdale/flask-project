@@ -16,7 +16,7 @@ In terminal, `export FLASK_DEBUG=1`
 `flask run`
 
 # Running Script with python**
-add
+add this to `flaskblog.py`
 ```
 if __name__ == '__main__':
   app.run(debug=True)
