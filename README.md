@@ -1,6 +1,6 @@
 # flask-project
 
-# H1 **Steps to setting up Flask**
+# **Steps to setting up Flask**
 
 1. pip install flask
   - Double check by opening python and typing "import flask"
@@ -10,14 +10,15 @@
   - `flask run`
   - copy the address and paste it into the URL bar
 
-# H1 **Live Editing**
+# **Live Editing**
 With the current settings, the you will need to restart flask and run it again in order to see changes. 
 In terminal, `export FLASK_DEBUG=1`
 `flask run`
 
-# H1 Running Script with python**
+# Running Script with python**
 add
-```if __name__ == '__main__':
+```
+if __name__ == '__main__':
   app.run(debug=True)
 ```  
 This allows you to run the scripts as `python flaskblog.py`  
