@@ -27,7 +27,7 @@ This allows you to run the scripts as `python flaskblog.py`
 Download Python Professional using student account
 Click `New Project` and select Flask
 Choose the location you want the project to exist. if project is already existing then choose the project location.
-Make sure to use Venv and Python 3.7 for this project.
+Make sure to use Venv and Python 2.7 for this project.
 If Project already exists
 Click `No` when it prompts if you want to use existing resources
 If project does not exist
