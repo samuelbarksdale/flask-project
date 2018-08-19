@@ -32,3 +32,6 @@ If Project already exists
 Click `No` when it prompts if you want to use existing resources
 If project does not exist
 Click `Yes`
+
+# Getting Started with Bootstrap
+https://getbootstrap.com/docs/4.0/getting-started/introduction/#starter-template
